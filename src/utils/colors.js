@@ -1,0 +1,21 @@
+export const colors = {
+  primary: '#6366F1',
+  secondary: '#8B5CF6',
+  teacher: '#4F46E5',
+  student: '#10B981',
+  background: '#F3F4F6',
+  white: '#FFFFFF',
+  black: '#1F2937',
+  gray: '#9CA3AF',
+  lightGray: '#E5E7EB',
+  success: '#10B981',
+  warning: '#F59E0B',
+  error: '#EF4444',
+  info: '#3B82F6',
+  present: '#10B981',
+  absent: '#EF4444',
+  card: '#FFFFFF',
+  text: '#374151',
+  textLight: '#6B7280',
+  border: '#E5E7EB'
+};

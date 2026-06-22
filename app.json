@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Student Teacher App",
+    "slug": "student-teacher-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+
+    "icon": "./assets/icon.png",
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.studentteacher.app"
+    },
+
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
